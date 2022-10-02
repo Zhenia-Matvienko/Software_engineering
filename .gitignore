@@ -1,5 +1,7 @@
 *~
+*obj
 *obj3
 Win32/
+Win64/
 Debug/
 __history/
